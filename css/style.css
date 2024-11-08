@@ -1,0 +1,25 @@
+.carousel-caption{
+    min-height: 75vh;   
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    position: absolute;
+}
+
+#about h5{
+    letter-spacing: 5px;
+}
+
+#about img{
+    min-height: 100%;
+}
+
+.sec{
+    min-height: 45vh;
+    background-image: url(https://img.freepik.com/premium-photo/modern-cctv-camera-monitoring-surveillance-security-wall-with-car-park-background_327072-20591.jpg?w=1380);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    color:white;
+}
+
